@@ -1,6 +1,6 @@
 {
   "name": "@lucid-softworks/http-cors",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Configurable CORS and preflight middleware.",
   "keywords": [
     "cors",
